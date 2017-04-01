@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="HBD">Happy birthday dear friend</string>
+    <string name="Form">By Me</string>
+    <string name="Title">Form Login</string>
+
+    <string name="Button">Login</string>
+
+</resources>
